@@ -32,9 +32,9 @@ To get more help on the `angular-cli` use `ng --help` or go check out the [Angul
 
 ## Cordova application creating
 
-To create Cordova app from Angular app run `cd cordova`, add needed platforms e.g. run
-`cordova platform add browser` or `cordova platform add android`
-To run e.g. in browser run `cordova run browser`.
+To create Cordova app from Angular app run `cd cordova`, add needed platforms, e.g. run
+`cordova platform add browser` or `cordova platform add android`.  
+To run e.g. in browser run `cordova run browser`.  
 
 To create builds run `cordova build`.
 
