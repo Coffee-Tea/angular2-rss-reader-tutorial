@@ -29,3 +29,12 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Cordova application creating
+
+To create Cordova app from Angular app run `cd cordova`, add needed platforms e.g. run
+`cordova platform add browser` or `cordova platform add android`
+To run e.g. in browser run `cordova run browser`.
+
+To create builds run `cordova build`.
+
